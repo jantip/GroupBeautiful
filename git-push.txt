@@ -1,3 +1,7 @@
 git push -u origin master -------> up file to githup ;
 
 push file to githup
+
+เป็นคำสั่งส่ง files และ folders จาก repository ที่ทำการ commit ไว้ ไปยัง remote repository หรือ github.com
+
+
