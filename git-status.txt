@@ -9,3 +9,5 @@ git status for check your stutus
 =======
 git status -------> check status of file ;
 >>>>>>> 4884412dab9cf8ab8a612255f4627bc5dae6b0ea
+
+Check all files when we use VI command or notepad or editplus for Insert or Edit data. :)
