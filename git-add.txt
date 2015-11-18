@@ -5,3 +5,5 @@ made git know about that file *use when file have something change.
 *ใช้ตลอดชีวิต
 
 git add filename ----------> เพิ่มไฟล์ เพื่อให้รู้จัก เมื่อมีการเปลี่ยนแปลงหรือแก้ไข
+
+Add a red text file when we edit or insert file.
