@@ -2,3 +2,6 @@ keep file in container
 always use
 
 Keep file in repo and commit message must to be easy understand.
+
+การเอาไฟล์ไปเก็บในกล่อง เช่น
+git commit -m "CREATED new file name hello.txt"
