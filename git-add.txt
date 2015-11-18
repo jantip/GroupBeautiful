@@ -1,2 +1,5 @@
 ใช้เพิ้มไฟล์ลงไปในrepositories
-made git know about that file *use when file have something change. 
+made git know about that file *use when file have something change.
+
+ช่วยเพิ่มไฟล์ชื่อแต่ละอันให้รู้จักใช้เมื่อมีไฟล์เปลี่ยนแปลงจากเดิม 
+*ใช้ตลอดชีวิต
