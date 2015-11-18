@@ -1,5 +1,4 @@
 keep file in container
 always use
 
-Comment file and bla bla bla...
-
+Keep file in repo and commit message must to be easy understand.
