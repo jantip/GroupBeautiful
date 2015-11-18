@@ -5,3 +5,5 @@ back to node one step
 เป็นคำสั่งสำหรับเปลี่ยนการใช้งานไปยัง branch นั้นๆ
 
 การย้อนกลับไปใช้เขียนใหม่
+
+git checkout HEAD^ ----------> back to one step ; 
