@@ -1,1 +1,3 @@
 ใช้เพิ้มไฟล์ลงไปในrepositories
+
+made git know about that file *use when file have something change. 
