@@ -5,3 +5,4 @@ git init ---------> cleate landmark
 
 เป็นคำสั่งเริ่มต้นใช้งาน git มาควบคุมเวอร์ชั่นของ files และ folders ในตำแหน่งที่อยู่ปัจจุบัน โดยจะสร้าง folder .git ขึ้นมาซึ่งเป็น hidden folder ซึ่ง folder นี้จะเก็บข้อมูลต่างๆ ของ git repository ไว้ 
 
+First command for GIT tool for control files and folders.Use as one time. :)
