@@ -4,4 +4,5 @@ push file to githup
 
 เป็นคำสั่งส่ง files และ folders จาก repository ที่ทำการ commit ไว้ ไปยัง remote repository หรือ github.com
 
+push is command to send files to Github
 
