@@ -2,3 +2,6 @@ git pull
 pull data from Hub
 
 pull data from github to master
+
+เป็นคำสั่งสำหรับดึง files และ folders ต่างๆ ที่มีการเปลี่ยนแปลงลงมาที่เครื่องของเรา
+
