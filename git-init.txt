@@ -1,2 +1,4 @@
 git init is create landmark or git store 
 *Use once for one folder
+
+git init ---------> cleate landmark
