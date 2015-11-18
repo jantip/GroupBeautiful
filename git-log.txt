@@ -2,3 +2,4 @@ See to file status list
 
 เป็นคำสั่งเพื่อดูประวัติการ commit ต่างๆ ใน git repository
 
+See all comment in each file in the GitHub..
