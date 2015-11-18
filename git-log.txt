@@ -4,4 +4,6 @@ See to file status list
 
 See all comment in each file in the GitHub..
 
-show list all done 
+show list all done
+
+git log -----------> show comment evryting of project ;
