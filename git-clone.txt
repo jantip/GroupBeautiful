@@ -1,3 +1,6 @@
 git clone ssh -----> clone all from github ;
 
 clone all from github to your folder.
+
+สำหรับดึงrepositoriesจากๅgithub
+
